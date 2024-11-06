@@ -1,0 +1,18 @@
+# Node modules
+/node_modules
+/backend/node_modules
+/frontend/node_modules
+
+# Environment variables
+.env
+/backend/.env
+/frontend/.env
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
+/.idea
